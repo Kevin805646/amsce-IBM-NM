@@ -16,7 +16,6 @@ Team members:
 
 6.Surya Prakash   (au110121104320)
 
-
 Project Description:
 
 1.Persona Design: Define the chatbot's persona, including its name, tone, and style of communication.
